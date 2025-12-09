@@ -48,6 +48,7 @@ The dashboard is designed for analysts, policymakers, automotive researchers, or
 2. Use filters / controls on the dashboard to explore the data (e.g., select region, year, vehicle type).  
 3. Hover or click on charts/points to get detailed info (tooltips, legends).  
 
+## Link to Dashboard : https://public.tableau.com/app/profile/shubham.bhogan/viz/EVDataAnalysis_17513658349970/Dashboard1
 ---
 
 ## Requirements

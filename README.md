@@ -63,6 +63,3 @@ The dashboard is designed for analysts, policymakers, automotive researchers, or
 - (If using raw data) Python/R or any data-processing tool (optional) for preprocessing.  
 
 ---
-
-## Project Structure (Files & Format)
-

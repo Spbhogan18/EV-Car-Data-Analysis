@@ -1,4 +1,4 @@
-# EVDataAnalysis 🚗🔋
+# EV Car Data Analysis 🚗🔋
 
 **A data-driven dashboard to analyze electric vehicle (EV) adoption & performance data** — built with Tableau for interactive visualization and insights.
 
@@ -35,8 +35,6 @@ The dashboard is designed for analysts, policymakers, automotive researchers, or
 - **Geographic Coverage:** (e.g., global / country / state / city-level — specify)  
 - **Any preprocessing / cleaning done:** (e.g., removed duplicates, handled missing values, normalized units)  
 
-> ⚠️ If you aggregated data, merged multiple sources, or transformed columns — describe how and why.  
-
 ---
 
 ## Dashboard Overview
@@ -48,9 +46,6 @@ The dashboard is designed for analysts, policymakers, automotive researchers, or
   - Comparison between EV performance metrics (e.g., battery status, charging times)  
   - Histograms / distributions of key variables  
   - Any interactive filters / slicers (year, region, vehicle type, etc.)  
-
-- **Purpose:** To allow users to intuitively explore data, filter by different variables, and extract insights without needing to write code.
-
 ---
 
 ## How to Use
@@ -58,9 +53,6 @@ The dashboard is designed for analysts, policymakers, automotive researchers, or
 1. Open the public Tableau link in a browser.  
 2. Use filters / controls on the dashboard to explore the data (e.g., select region, year, vehicle type).  
 3. Hover or click on charts/points to get detailed info (tooltips, legends).  
-4. (Optional) If you have access to the raw data and Tableau Desktop / Tableau Public account — you can download or duplicate the workbook to modify / extend it.  
-
-*(If you provide a downloadable workbook or data files, describe how to load them — e.g. “open `EVDataAnalysis.twbx` in Tableau Desktop”, or “import `data/ev_data.csv` and connect in Tableau”.)*
 
 ---
 

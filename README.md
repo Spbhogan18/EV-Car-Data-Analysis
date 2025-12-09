@@ -11,12 +11,6 @@
 - [Dashboard Overview](#dashboard-overview)  
 - [How to Use](#how-to-use)  
 - [Requirements](#requirements)  
-- [Project Structure (Files & Format)](#project-structure-files--format)  
-- [Key Columns/Variables & Definitions](#key-columnsvariables--definitions)  
-- [Contributing](#contributing)  
-- [License & Credits](#license--credits)  
-- [Contact](#contact)  
-
 ---
 
 ## Project Description

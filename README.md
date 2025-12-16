@@ -1,4 +1,4 @@
-# EV Car Data Analysis 🚗🔋
+# EV Car Data Analysis 🚗🔋(Shubham Bhogan)
 
 **A data-driven dashboard to analyze electric vehicle (EV) adoption & performance data** — built with Tableau for interactive visualization and insights.
 
